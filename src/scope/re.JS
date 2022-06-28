@@ -15,7 +15,7 @@ console.log(firstName);
 
 let frui = "Apple"
 frui = "Kiwi"
-let frui = "banana"
+let frui2 = "banana"
 
 // with const
 
